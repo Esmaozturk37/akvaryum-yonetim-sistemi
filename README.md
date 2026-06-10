@@ -4,6 +4,7 @@
 # 🐠 Akvaryum Yönetim Sistemi
  
 > **Canlı Demo:** [http://95.130.171.20/~st23360859003/index.php](http://95.130.171.20/~st23360859003/index.php)
+> **Youtube demo video linkimiz : ** [https://youtu.be/qhMertAIWhw](https://youtu.be/qhMertAIWhw)
  
 ---
  
